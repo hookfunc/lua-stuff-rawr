@@ -1,2 +1,2 @@
 # lua-stuff-rawr
-ur mom XD
+u can use them but credit me lol faggot die
