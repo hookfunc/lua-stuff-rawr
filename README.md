@@ -1,2 +1,2 @@
 # lua-stuff-rawr
-u can use them but credit me lol faggot die
+only good stuff in there :muscle:
