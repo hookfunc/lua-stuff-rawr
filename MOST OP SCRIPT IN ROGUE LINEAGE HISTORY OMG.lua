@@ -10,7 +10,7 @@ GrabItemFolder = function()
 local ItemFolder = GrabItemFolder() -- why code look bad pls i wanna die
 
 ItemFolder.ChildAdded:connect(function(child)
-            if child.Transparency == 0 and Variables.AutoPickup.Enabled then 
+            if child.Transparency == 0 then 
                 repeat wait() until child:FindFirstChildOfClass('ClickDetector') 
                 local Click = child:FindFirstChildOfClass('ClickDetector')
                 spawn(function()
